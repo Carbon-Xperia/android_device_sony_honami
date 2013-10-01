@@ -26,7 +26,7 @@ $(call inherit-product, device/sony/common/resources-xxhdpi.mk)
 $(call inherit-product, device/sony/honami/honami.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := full_honami
+PRODUCT_NAME := carbon_honami
 PRODUCT_DEVICE := honami
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
